@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Social Media
 
-[![https://www.instagram.com/fthirfa_](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) [![https://www.linkedin.com/in/rizqifathirafa/](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![https://www.instagram.com/fthirfa_](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) [![https://www.linkedin.com/in/rizqifathirafa/](https://www.linkedin.com/in/rizqifathirafa/)](#)
 
 
    
